@@ -1,0 +1,6 @@
+{
+  "name": "IronForge Gym & Fitness Tracker",
+  "description": "Premium fitness club experience with built-in membership management, attendance check-in, and transformation tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
